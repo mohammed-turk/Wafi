@@ -36,7 +36,7 @@ resolution when something goes wrong. Wafi was built to close that gap.
 
 ### Prerequisites
 
-- Java 21+
+- Java 17
 - Maven
 - MySQL running locally
 - A Gemini API key ([Google AI Studio](https://aistudio.google.com/apikey))
